@@ -1,5 +1,5 @@
 {
-  "name": "example-react-app",
+  "name": "reactjs-tictactoe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
